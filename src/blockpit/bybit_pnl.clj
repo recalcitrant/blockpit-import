@@ -43,5 +43,5 @@
     (save-workbook! file-name wb))
   )
 
-(to "resources/vfweb/bybit-derivatives-closedpl-2024-until-april-12-filled.xls"
-    (into [] (cons header (from "vfweb/bybit-derivatives-closedpl-2024-until-april-12.xls"))))
+(to "resources/vfweb/bybit-derivatives-closedpl-2024-until-dec-15-filled.xls"
+    (into [] (cons header (from "vfweb/bybit-derivatives-closedpl-2024-until-dec-15.xls"))))
