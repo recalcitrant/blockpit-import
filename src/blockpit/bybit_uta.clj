@@ -42,5 +42,8 @@
 ;(to "resources/vfweb/manual_uta_adjustments/Bybit_AssetChangeDetails_uta_30119721_20240101_20241231_0-filled.xls"
 ;   (into [] (cons header (from "vfweb/manual_uta_adjustments/Bybit_AssetChangeDetails_uta_30119721_20240101_20241231_0.xls"))))
 
-(to "resources/vfweb/manual_uta_adjustments/Bybit_AssetChangeDetails_uta_30119721_20250101_20250516_0-filled.xlsx"
-    (into [] (cons header (from "vfweb/manual_uta_adjustments/Bybit_AssetChangeDetails_uta_30119721_20250101_20250516_0.xls"))))
+;(to "resources/vfweb/manual_uta_adjustments/Bybit_AssetChangeDetails_uta_30119721_20250101_20250516_0-filled.xlsx"
+;    (into [] (cons header (from "vfweb/manual_uta_adjustments/Bybit_AssetChangeDetails_uta_30119721_20250101_20250516_0.xls"))))
+
+(to "resources/vfweb/manual_uta_adjustments/Bybit-UM-TransactionLog-1747432800-1763333999-filled.xlsx"
+    (into [] (cons header (from "vfweb/manual_uta_adjustments/Bybit-UM-TransactionLog-1747432800-1763333999.xls"))))
